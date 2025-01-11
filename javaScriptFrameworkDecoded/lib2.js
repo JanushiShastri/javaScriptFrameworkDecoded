@@ -1,0 +1,1 @@
+var libname = "lib2"

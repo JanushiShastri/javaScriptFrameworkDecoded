@@ -6,4 +6,7 @@
 - boolean
 - number
 - string
-- symbol : ES6 introduced
+- symbol : ES6
+
+# Coercion
+- conversion of different datatypes
