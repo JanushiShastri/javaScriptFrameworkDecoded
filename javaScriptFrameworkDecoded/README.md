@@ -10,3 +10,5 @@
 
 # Coercion
 - conversion of different datatypes
+
+# functions are objects aka first class funtions
